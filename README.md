@@ -19,7 +19,7 @@ Research Officer at MIMOS Berhad<br>Intelligent Systems Engineering Graduate<br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mawardi-rosli-04b299334) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/mawardi-rosli-04b299334) 
 
 
 
